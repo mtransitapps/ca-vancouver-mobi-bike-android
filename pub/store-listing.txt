@@ -26,7 +26,7 @@ The information comes from a web-service provided by Smoove:
 This application is free and open-source:
 https://github.com/mtransitapps/ca-vancouver-mobi-bike-android
 
-This application is not related with Vanncouver Bike Share Inc.
+This application is not related with Vancouver Bike Share Inc.
 
 Permissions:
 - Other: required to load bike stations information and to read news from YouTube and Twitter.

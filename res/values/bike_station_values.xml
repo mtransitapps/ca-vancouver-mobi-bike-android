@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <integer name="bike_station_db_version">6</integer>
+    <integer name="bike_station_db_version">10</integer>
     <string name="bike_station_authority">org.mtransit.android.ca_vancouver_mobi_bike</string>
     <string name="bike_station_status_for_poi_authority">@string/bike_station_authority</string>
     <integer name="bike_station_agency_type">100</integer>
-    <string name="bike_station_data_url">https://vancouver-ca.smoove.pro/api-public/stations</string>
+    <string name="bike_station_data_url">https://vancouver-gbfs.smoove.pro/gbfs/</string>
     <string name="bike_station_area_min_lat">49.24</string>
     <string name="bike_station_area_max_lat">49.30</string>
     <string name="bike_station_area_min_lng">-123.09</string>

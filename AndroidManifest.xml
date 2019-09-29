@@ -40,8 +40,7 @@
             android:authorities="@string/bike_station_authority"
             android:exported="true"
             android:readPermission="org.mtransit.android.provider.permission.READ_PROVIDER"
-            tools:ignore="MissingRegistered" >
-            <!--  android:name="org.mtransit.android.commons.provider.BixiBikeStationProvider" -->
+            tools:ignore="MissingRegistered">
             <meta-data
                 android:name="@string/agency_provider"
                 android:value="@string/agency_provider" />

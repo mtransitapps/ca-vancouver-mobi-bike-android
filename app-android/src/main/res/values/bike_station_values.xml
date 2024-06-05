@@ -9,13 +9,13 @@
     <string name="bike_station_area_max_lat">49.35</string>
     <string name="bike_station_area_min_lng">-123.20</string>
     <string name="bike_station_area_max_lng">-123.05</string>
-    <string name="bike_station_color">008ABF</string> <!-- LIGHT BLUE -->
-    <color name="bike_station_value1_color">#004C73</color> <!-- DARK BLUE -->
-    <color name="bike_station_value1_color_bg">#FFFFFF</color> <!-- WHITE -->
+    <string name="bike_station_color">DA291C</string> <!-- RED -->
+    <color name="bike_station_value1_color">#DA291C</color> <!-- RED -->
+    <color name="bike_station_value1_color_bg">#DA291C</color> <!-- RED -->
     <color name="bike_station_value1_sub_value1_color">#00E600</color> <!-- GREEN -->
-    <color name="bike_station_value1_sub_value1_color_bg">#FFFFFF</color> <!-- WHITE -->
-    <color name="bike_station_value2_color">#008ABF</color> <!-- LIGHT BLUE -->
-    <color name="bike_station_value2_color_bg">#FFFFFF</color> <!-- WHITE -->
+    <color name="bike_station_value1_sub_value1_color_bg">#00E600</color> <!-- WHITE -->
+    <color name="bike_station_value2_color">#FFFFFF</color> <!-- WHITE -->
+    <color name="bike_station_value2_color_bg">#000000</color> <!-- BLACK -->
     <string name="bike_station_contact_us">https://www.mobibikes.ca/en/contact-us</string>
     <string name="bike_station_contact_us_fr">https://www.mobibikes.ca/fr/nous-contacter</string>
 </resources>

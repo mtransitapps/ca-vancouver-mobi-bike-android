@@ -15,6 +15,6 @@
     <color name="bike_station_value1_sub_value1_color_bg">#00E600</color> <!-- WHITE -->
     <color name="bike_station_value2_color">#FFFFFF</color> <!-- WHITE -->
     <color name="bike_station_value2_color_bg">#000000</color> <!-- BLACK -->
-    <string name="bike_station_contact_us">https://www.mobibikes.ca/en/contact-us</string>
-    <string name="bike_station_contact_us_fr">https://www.mobibikes.ca/fr/nous-contacter</string>
+    <string name="bike_station_contact_us">https://www.mobibikes.ca/en/help</string>
+    <string name="bike_station_fares">https://www.mobibikes.ca/en/offers-subscription</string>
 </resources>
